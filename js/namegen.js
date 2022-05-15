@@ -148,7 +148,8 @@ NameGen.symbols = {
     d: ['elch', 'idiot', 'ob', 'og', 'ok', 'olph', 'olt', 'omph', 'ong',
         'onk', 'oo', 'oob', 'oof', 'oog', 'ook', 'ooz', 'org', 'ork', 'orm',
         'oron', 'ub', 'uck', 'ug', 'ulf', 'ult', 'um', 'umb', 'ump', 'umph',
-        'un', 'unb', 'ung', 'unk', 'unph', 'unt', 'uzz']
+        'un', 'unb', 'ung', 'unk', 'unph', 'unt', 'uzz'],
+    q: 'or,ar,eer,ord,iev,ier,oo,lar,oth,uth,ooth,at,ark,urk,oork,oq,eerk,uth,uddh,ood,alf,elf'.split(','),
 };
 
 /**
